@@ -1,0 +1,6 @@
+.vscode
+main
+base64
+*.txt
+*.b64
+*.out
