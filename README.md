@@ -1,6 +1,6 @@
 ## Base64 file encoder
 
-It is command line program written in C for converting files into Base64 equivalent. Encoding algorithm is based on [RFC4648](https://datatracker.ietf.org/doc/html/rfc4648).
+It is command line program written in C for converting files into Base64 equivalent. Encoding [algorithm](https://github.com/milosz1092/base64-file-encoder/blob/main/src/encode.c) is based on [RFC4648](https://datatracker.ietf.org/doc/html/rfc4648).
 
 ## Compiling
 
